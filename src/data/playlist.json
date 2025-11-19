@@ -1,0 +1,154 @@
+[
+  {
+    "id": "1",
+    "title": "نشيد ديني 1",
+    "artist": "منشد",
+    "cover": "/images/anasheed-cover.png",
+    "audio": "/audio/anasheed/music_1.mp3",
+    "duration": "3:28"
+  },
+  {
+    "id": "2",
+    "title": "نشيد ديني 2",
+    "artist": "منشد",
+    "cover": "/images/anasheed-cover.png",
+    "audio": "/audio/anasheed/music_2.mp3",
+    "duration": "4:25"
+  },
+  {
+    "id": "3",
+    "title": "نشيد ديني 3",
+    "artist": "منشد",
+    "cover": "/images/anasheed-cover.png",
+    "audio": "/audio/anasheed/music_3.mp3",
+    "duration": "1:10"
+  },
+  {
+    "id": "4",
+    "title": "نشيد ديني 4",
+    "artist": "منشد",
+    "cover": "/images/anasheed-cover.png",
+    "audio": "/audio/anasheed/music_4.mp3",
+    "duration": "0:31"
+  },
+  {
+    "id": "5",
+    "title": "نشيد ديني 5",
+    "artist": "منشد",
+    "cover": "/images/anasheed-cover.png",
+    "audio": "/audio/anasheed/music_5.mp3",
+    "duration": "3:22"
+  },
+  {
+    "id": "6",
+    "title": "نشيد ديني 6",
+    "artist": "منشد",
+    "cover": "/images/anasheed-cover.png",
+    "audio": "/audio/anasheed/music_6.mp3",
+    "duration": "4:15"
+  },
+  {
+    "id": "7",
+    "title": "نشيد ديني 7",
+    "artist": "منشد",
+    "cover": "/images/anasheed-cover.png",
+    "audio": "/audio/anasheed/music_7.mp3",
+    "duration": "1:44"
+  },
+  {
+    "id": "8",
+    "title": "نشيد ديني 8",
+    "artist": "منشد",
+    "cover": "/images/anasheed-cover.png",
+    "audio": "/audio/anasheed/music_8.mp3",
+    "duration": "1:32"
+  },
+  {
+    "id": "9",
+    "title": "نشيد ديني 9",
+    "artist": "منشد",
+    "cover": "/images/anasheed-cover.png",
+    "audio": "/audio/anasheed/music_9.mp3",
+    "duration": "1:10"
+  },
+  {
+    "id": "10",
+    "title": "نشيد ديني 10",
+    "artist": "منشد",
+    "cover": "/images/anasheed-cover.png",
+    "audio": "/audio/anasheed/music_10.mp3",
+    "duration": "1:11"
+  },
+  {
+    "id": "11",
+    "title": "نشيد ديني 11",
+    "artist": "منشد",
+    "cover": "/images/anasheed-cover.png",
+    "audio": "/audio/anasheed/music_11.mp3",
+    "duration": "2:10"
+  },
+  {
+    "id": "12",
+    "title": "نشيد ديني 12",
+    "artist": "منشد",
+    "cover": "/images/anasheed-cover.png",
+    "audio": "/audio/anasheed/music_12.mp3",
+    "duration": "2:45"
+  },
+  {
+    "id": "13",
+    "title": "نشيد ديني 13",
+    "artist": "منشد",
+    "cover": "/images/anasheed-cover.png",
+    "audio": "/audio/anasheed/music_13.mp3",
+    "duration": "1:54"
+  },
+  {
+    "id": "14",
+    "title": "نشيد ديني 14",
+    "artist": "منشد",
+    "cover": "/images/anasheed-cover.png",
+    "audio": "/audio/anasheed/music_14.mp3",
+    "duration": "1:42"
+  },
+  {
+    "id": "15",
+    "title": "نشيد ديني 15",
+    "artist": "منشد",
+    "cover": "/images/anasheed-cover.png",
+    "audio": "/audio/anasheed/music_15.mp3",
+    "duration": "0:41"
+  },
+  {
+    "id": "16",
+    "title": "نشيد ديني 16",
+    "artist": "منشد",
+    "cover": "/images/anasheed-cover.png",
+    "audio": "/audio/anasheed/music_16.mp3",
+    "duration": "1:20"
+  },
+  {
+    "id": "17",
+    "title": "نشيد ديني 17",
+    "artist": "منشد",
+    "cover": "/images/anasheed-cover.png",
+    "audio": "/audio/anasheed/music_17.mp3",
+    "duration": "4:19"
+  },
+  {
+    "id": "18",
+    "title": "نشيد ديني 18",
+    "artist": "منشد",
+    "cover": "/images/anasheed-cover.png",
+    "audio": "/audio/anasheed/music_18.mp3",
+    "duration": "3:42"
+  },
+  {
+    "id": "19",
+    "title": "نشيد ديني 19",
+    "artist": "منشد",
+    "cover": "/images/anasheed-cover.png",
+    "audio": "/audio/anasheed/music_19.mp3",
+    "duration": "3:38"
+  }
+]

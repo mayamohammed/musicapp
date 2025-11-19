@@ -1,0 +1,17 @@
+{
+  "name": "React Music Player",
+  "short_name": "Music Player",
+  "description": "Modern music player with glassmorphism design",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#667eea",
+  "theme_color": "#667eea",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
